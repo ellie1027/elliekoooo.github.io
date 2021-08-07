@@ -3,7 +3,7 @@ title: SUMMARY
 author: ellie koooo
 date: 2021-08-06 15:37:00 
 categories: [Spring, Spring Core]
-tags: [google analytics, pageviews]
+tags: [spring]
 ---
 
 - **REFERENCES** : [인프런 <스프링 프레임워크 핵심 기술> (백기선)](https://www.inflearn.com/course/spring-framework_core/)
