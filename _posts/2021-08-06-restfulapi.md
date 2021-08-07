@@ -7,7 +7,7 @@ tags: [google analytics, pageviews]
 ---
 
 
-그런 REST API로 괜찮은가? [링크](youtube.com/watch?v=RP_f5dMoHFc) 라는 강의를 보고 정리한 내용입니다.
+그런 REST API로 괜찮은가? 라는 강의를 보고 정리한 내용입니다.
 
 # API란?
 - Application Programming Interface
