@@ -3,7 +3,7 @@ title: Restful API
 author: ellie koooo
 date: 2021-08-05 15:37:00 
 categories: [_ETC, Rest API]
-tags: [google analytics, pageviews]
+tags: [rest api]
 ---
 
 
